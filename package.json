@@ -1,0 +1,27 @@
+{
+    "name": "newjlhsite",
+    "version": "1.0.0",
+    "description": "Game Development Company: Jupiter LightHouse",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Everyone1138/NewJLHSite.git"
+    },
+    "keywords": [
+        "game",
+        "javascript",
+        "browser",
+        "pixel-art",
+        "html5",
+        "retro"
+    ],
+    "author": "\"javascript\",",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Everyone1138/NewJLHSite/issues"
+    },
+    "homepage": "https://github.com/Everyone1138/NewJLHSite#readme"
+}
