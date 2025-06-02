@@ -2,7 +2,7 @@
     "name": "newjlhsite",
     "version": "1.0.0",
     "description": "Game Development Company: Jupiter LightHouse",
-    "main": "index.js",
+    "main": "index.html",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
